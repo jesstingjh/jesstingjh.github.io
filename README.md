@@ -24,16 +24,19 @@ Currently pursuing an MS in Analytics at Georgia Institute of Technology, buildi
   *Honors Thesis: "Dynamic Conditional Score Models: Forecasting Volatility of Exchange Rates"*
 
 ## Work Experience
-### Senior Economist
-**Ministry of Trade and Industry, Singapore** *(May 2020 - Aug 2024)*
+**Senior Economist** *(May 2020 - Aug 2024)*
+*Ministry of Trade and Industry, Singapore*
 
 - Drove data-intensive research projects and analyses involving dataset harmonization and cleaning, and advanced statistical analyses in STATA, Tableau, R and Python; and collaborated with cross-functional policy teams to contextualize research findings and deliver actionable insights to senior management
 - Developed economic parameters and scenarios for national long-term infrastructure planning
 - Created analytical frameworks for policy design and impact assessment
 - Mentored junior economists and interns on coding practices, policy contexts and econometric methodologies for research projects
 
-### Intern/Research Assistant *(2016-2020)*
-Completed various internships and research assistantships at the Ministry of Health, Ministry of Social and Family Development, and National University of Singapore (Economics Department)
+**Research Assistant / Intern** *2016-2020*  
+*Various Singapore Government Agencies*
+- Ministry of Health
+- Ministry of Social and Family Development
+- National University of Singapore, Economics Department
 
 
 ## Publications
