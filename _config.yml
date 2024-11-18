@@ -5,11 +5,9 @@ theme: jekyll-theme-minimal
 color-scheme: light
 
 contact_links:
-- label: 📧 Email 
+- label: 📧 Email
   url: mailto:jessicating.jtjh@gmail.com  
-
-- label: 💼 LinkedIn 
+- label: 💼 LinkedIn
   url: https://linkedin.com/in/jesstingjh 
-
-- label: 📄 Resume 
+- label: 📄 Resume
   url: assets/resume.pdf  
