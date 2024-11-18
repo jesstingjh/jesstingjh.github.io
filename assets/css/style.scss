@@ -1,0 +1,46 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+// Custom styles
+body {
+  background-color: #f5f5f5;  // Light grey background
+}
+
+.wrapper {
+  max-width: 960px;  // Adjust page width
+}
+
+header {
+  h1 {
+    font-size: 48px;  // Larger title
+    text-align: center;  // Center title
+    color: #2c3e50;  // Dark blue title
+  }
+  
+  p.view {
+    text-align: center;  // Center social links
+  }
+}
+
+.main-content {
+  h1, h2, h3 {
+    color: #2c3e50;  // Consistent heading colors
+  }
+}
+
+section {
+  padding: 20px 30px;
+  background: #fff;  // White content background
+  border-radius: 8px;  // Rounded corners
+  box-shadow: 0 1px 3px rgba(0,0,0,0.12);  // Subtle shadow
+}
+
+// Adjust link colors
+a {
+  color: #3498db;  // Blue links
+  &:hover {
+    color: #2980b9;  // Darker blue on hover
+  }
+}
