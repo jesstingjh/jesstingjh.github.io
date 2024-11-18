@@ -10,8 +10,12 @@ I am a Master's student in Analytics at Georgia Tech, with a strong foundation i
   - Time Series Analysis: Forecasting, Volatility Modeling
   - Others: Data Cleaning & Preprocessing, Optimization & Simulation, Text Analytics
 
+## Projects
+Below are some of the projects I have worked on as part of my coursework or personal interest. This section will be updated as I complete new projects
+- <placeholder>
+
 ## Education
-- **Georgia Institute of Technology** 
+- **Georgia Institute of Technology**   
   MS Analytics *(Expected 2025)*    
   *Coursework: Data and Visual Analytics, Computing for Data Analytics, Operations Research for Supply Chains (Linear Programming and Optimisation), Introduction to Analytics, Business Fundamentals*
 
