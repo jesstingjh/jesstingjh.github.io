@@ -14,13 +14,12 @@ Currently pursuing an MS in Analytics at Georgia Institute of Technology, buildi
   - Others: Data Cleaning & Preprocessing, Optimization & Simulation, Text Analytics
 
 ## Education
-- **Master of Science in Analytics** *(Expected 2025)*  
-  Georgia Institute of Technology, Atlanta, GA  
+- **Georgia Institute of Technology** 
+  MS Analytics *(Expected 2025)*  
   *Coursework: Data and Visual Analytics, Computing for Data Analytics, Operations Research for Supply Chains (Linear Programming and Optimisation), Introduction to Analytics, Business Fundamentals*
 
-- **Bachelor of Social Sciences in Economics** *(2015-2019)*  
-  National University of Singapore  
-  *Grade: 4.88/5.00 (Highest Distinction)*
+- **National University of Singapore** *(2015-2019)*  
+  BSc Economics, Highest Distinction (GPA: 4.88/5.00) *(2015-2019)*
   *Specialisation: Quantitative Economics; Minor: Statistics; Special Program: University Scholars Programme*
   *Honors Thesis: "Dynamic Conditional Score Models: Forecasting Volatility of Exchange Rates"*
 

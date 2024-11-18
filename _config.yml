@@ -1,7 +1,15 @@
 title: Jessica Ting
 logo: assets/img/profile_circle.png
-description: MS Analytics student at Georgia Institute of Technology | Economist
+description: Georgia Tech MS Analytics student | Former Economist
 show_downloads: true
 theme: jekyll-theme-minimal
-plugins: 
-  - jekyll-seo-tag
+color-scheme: light
+
+github_username: jesstingjh
+linkedin_username: jesstingjh
+email: jessicating.jtjh@gmail.com
+
+markdown: kramdown
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
