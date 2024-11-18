@@ -1,4 +1,4 @@
-# Georgia Tech MS Analytics Student 
+# Data Science Portfolio
 
 ### Education
 Analytics, MS (current)
