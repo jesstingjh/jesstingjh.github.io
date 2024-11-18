@@ -15,15 +15,15 @@ Below are some of the projects I have worked on as part of my coursework or pers
 - <placeholder>
 
 ## Education
-**Georgia Institute of Technology**   
+- **Georgia Institute of Technology**   
 ***MS Analytics (Expected 2025)***    
-- *Coursework: Data and Visual Analytics, Computing for Data Analytics, Operations Research for Supply Chains (Linear Programming and Optimisation), Introduction to Analytics, Business Fundamentals*
+    - *Coursework: Data and Visual Analytics, Computing for Data Analytics, Operations Research for Supply Chains (Linear Programming and Optimisation), Introduction to Analytics, Business Fundamentals*
 
-**National University of Singapore**  
+- **National University of Singapore**  
 ***BSc Economics, Highest Distinction (2015-2019)***    
-- *(GPA: 4.88/5.00)*    
-- *Specialisation: Quantitative Economics; Minor: Statistics; Special Program: University Scholars Programme*   
-- *Honors Thesis: "Dynamic Conditional Score Models: Forecasting Volatility of Exchange Rates"*
+    - *(GPA: 4.88/5.00)*    
+    - *Specialisation: Quantitative Economics; Minor: Statistics; Special Program: University Scholars Programme*   
+    - *Honors Thesis: "Dynamic Conditional Score Models: Forecasting Volatility of Exchange Rates"*
 
 ## Work Experience
 - **Senior Economist** *(May 2020 - Aug 2024)*  
