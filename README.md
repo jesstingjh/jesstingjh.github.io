@@ -1,5 +1,5 @@
 ## About Me
-I'm currently pursuing an MS in Analytics at Georgia Institute of Technology, building on my technical background in economic research. Before this, I worked as a Senior Economist at Singapore's Ministry of Trade and Industry, where I applied data analytics, econometric and statistical methods to inform national economic policies. I'm passionate about leveraging data science and machine learning to derive actionable insights from complex datasets.
+I am a Master's student in Analytics at Georgia Tech, with a strong foundation in economics and statistics from the National University of Singapore. In my previous role as a Senior Economist at Singapore's Ministry of Trade and Industry, I contributed to shaping impactful policy decisions through advanced data analytics, econometric modeling, and statistical techniques. I am deeply passionate about harnessing innovative machine learning and modeling methods to extract actionable insights from complex datasets. Outside of work, I thrive on the challenges of rock climbing and bouldering, push my limits in weightlifting, and am always on the hunt for the perfect cup of coffee.
 
 ## Technical Skills
 - **Programming Languages & Software:** Python, SQL, STATA, R, Tableau, Excel; exposure to D3 through coursework
@@ -12,10 +12,10 @@ I'm currently pursuing an MS in Analytics at Georgia Institute of Technology, bu
 
 ## Education
 - **Georgia Institute of Technology** 
-  MS Analytics *(Expected 2025)*  
+  MS Analytics *(Expected 2025)*    
   *Coursework: Data and Visual Analytics, Computing for Data Analytics, Operations Research for Supply Chains (Linear Programming and Optimisation), Introduction to Analytics, Business Fundamentals*
 
-- **National University of Singapore** *(2015-2019)*  
+- **National University of Singapore** *(2015-2019)*    
   BSc Economics, Highest Distinction (GPA: 4.88/5.00) *(2015-2019)* 
   *Specialisation: Quantitative Economics; Minor: Statistics; Special Program: University Scholars Programme*   
   *Honors Thesis: "Dynamic Conditional Score Models: Forecasting Volatility of Exchange Rates"*
@@ -29,18 +29,16 @@ I'm currently pursuing an MS in Analytics at Georgia Institute of Technology, bu
 - Mentored junior economists and interns on coding practices, policy contexts and econometric methodologies for research projects
 
 **Research Assistant / Intern** *(2016-2020)*  
-*Various government agencies and research bodies*
+*Various government agencies and research bodies*   
 - Ministry of Health
 - Ministry of Social and Family Development
 - National University of Singapore, Economics Department
 
 
 ## Publications
-### Economic Survey of Singapore Articles
+**Economic Survey of Singapore Articles**   
 - ["Increases in Autonomous University Cohort Participation Rate and the Labour Market"](https://www.mti.gov.sg/-/media/MTI/Resources/Economic-Survey-of-Singapore/2024/Economic-Survey-of-Singapore-First-Quarter-2024/FA_1Q24.pdf) *(2024)*
-
 - ["The Contribution of Intangible Assets to Labour Productivity Growth in Singapore"](https://www.mti.gov.sg/-/media/MTI/Resources/Economic-Survey-of-Singapore/2022/Economic-Survey-of-Singapore-First-Quarter-2022/FA2_1Q22.pdf) *(2022)*
-
 - ["Drivers of Labour Productivity Growth in Singapore"](https://www.mti.gov.sg/-/media/MTI/Resources/Economic-Survey-of-Singapore/2020/Economic-Survey-of-Singapore-Third-Quarter-2020/FA_3Q20.pdf) *(2020)*
 
 
