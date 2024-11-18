@@ -26,18 +26,18 @@ Below are some of the projects I have worked on as part of my coursework or pers
 - *Honors Thesis: "Dynamic Conditional Score Models: Forecasting Volatility of Exchange Rates"*
 
 ## Work Experience
-**Senior Economist** *(May 2020 - Aug 2024)*    
+- **Senior Economist** *(May 2020 - Aug 2024)*  
 ***Ministry of Trade and Industry, Singapore*** 
-- Drove data-intensive research projects and analyses involving data harmonization and cleaning, and advanced statistical analyses in STATA, Tableau, R and Python; and collaborated with cross-functional policy teams to contextualize research findings and deliver actionable insights to senior management
-- Developed economic parameters and scenarios for national long-term infrastructure planning
-- Created analytical frameworks for policy design and impact assessment
-- Mentored junior economists and interns on coding practices, policy contexts and econometric methodologies for research projects
+    - Drove data-intensive research projects and analyses involving data harmonization and cleaning, and advanced statistical analyses in STATA, Tableau, R and Python; and collaborated with cross-functional policy teams to contextualize research findings and deliver actionable insights to senior management
+    - Developed economic parameters and scenarios for national long-term infrastructure planning
+    - Created analytical frameworks for policy design and impact assessment
+    - Mentored junior economists and interns on coding practices, policy contexts and econometric methodologies for research projects
 
-**Research Assistant / Intern** *(2016-2020)*  
+- **Research Assistant / Intern** *(2016-2020)*  
 ***Various government agencies and research bodies***   
-- Ministry of Health
-- Ministry of Social and Family Development
-- National University of Singapore, Economics Department
+    - Ministry of Health
+    - Ministry of Social and Family Development
+    - National University of Singapore, Economics Department
 
 
 ## Publications 
