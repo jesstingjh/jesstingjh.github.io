@@ -1,5 +1,7 @@
 title: Jessica Ting
-logo: assets/img/profile.png
-description: MS Analytics student at Georgia Institute of Technology
+logo: assets/img/profile_circle.png
+description: MS Analytics student at Georgia Institute of Technology | Economist
 show_downloads: true
 theme: jekyll-theme-minimal
+plugins: 
+  - jekyll-seo-tag
