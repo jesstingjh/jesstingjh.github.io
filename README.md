@@ -1,8 +1,8 @@
 ## About Me
-I am a Master's student in Analytics at Georgia Tech, with a strong foundation in economics and statistics from the National University of Singapore. In my previous role as a Senior Economist at Singapore's Ministry of Trade and Industry, I contributed to shaping impactful policy decisions through advanced data analytics, econometric modeling, and statistical techniques. I am deeply passionate about harnessing innovative machine learning and modeling methods to extract actionable insights from complex datasets. Outside of work, I thrive on the challenges of rock climbing and bouldering, push my limits in weightlifting, and am always on the hunt for the perfect cup of coffee.
+I am a Master's student in Analytics at Georgia Tech, with a strong foundation in economics and statistics from the National University of Singapore. In my previous role as a Senior Economist at Singapore's Ministry of Trade and Industry, I contributed to shaping impactful policy decisions through advanced data analytics, econometric modeling, and statistical techniques. I am deeply passionate about harnessing machine learning and modelling methods to extract actionable insights from complex datasets. Outside of work, I thrive on the challenges of rock climbing and bouldering, push my limits in weightlifting, and am always on the hunt for the perfect cup of coffee.
 
 ## Technical Skills
-**Programming Languages & Software:** Python, SQL, STATA, R, Tableau, Excel; exposure to D3 through coursework
+**Programming Languages & Software:** Python, SQL, STATA, R, Tableau, Excel; exposure to JavaScript and D3 through coursework
 **Cloud/Big Data**: Exposure to AWS, GCP, PySpark, Databricks, Azure Machine Learning through coursework
 **Statistical/Analytical Skills**:
 - Causal Inference: Survival Analysis, Difference-in-Differences, Matching Methods, Regression Discontinuity Design, Synthetic Controls
@@ -12,18 +12,18 @@ I am a Master's student in Analytics at Georgia Tech, with a strong foundation i
 
 ## Projects
 Below are some of the projects I have worked on as part of my coursework or personal interest. This section will be updated as I complete new projects
-- <placeholder>
+- ***Network monitoring:*** Optimization project for water distribution network sensor placement using Python, Gurobi Solver, and operations research techniques. Created integer programming models to strategically place sensors across an 811-sensor, 1123-pipe network, minimizing sensor count while maximizing detection probability and prioritizing critical infrastructure locations
 
 ## Education
 - **Georgia Institute of Technology**   
 ***MS Analytics (Expected 2025)***    
-    - *Coursework: Data and Visual Analytics, Computing for Data Analytics, Operations Research for Supply Chains (Linear Programming and Optimisation), Introduction to Analytics, Business Fundamentals*
+    - Coursework: Data and Visual Analytics, Computing for Data Analytics, Operations Research for Supply Chains (Linear Programming and Optimisation), Introduction to Analytics, Business Fundamentals
 
 - **National University of Singapore**  
 ***BSc Economics, Highest Distinction, GPA: 4.88/5.00 (2015-2019)***    
-    - *Specialisation: Quantitative Economics; Minor: Statistics; Special Program: University Scholars Programme*   
-    - *Honors Thesis: "Dynamic Conditional Score Models: Forecasting Volatility of Exchange Rates"*
-    - *Awards:  Faculty of Arts and Social Sciences Dean’s Scholars List (2 semesters), Dean’s List (4 semesters); University Scholars Program Honor Roll (2016), Senior Honor Roll (2017), and President’s Honor Roll (2019)*
+    - Specialisation: Quantitative Economics; Minor: Statistics; Special Program: University Scholars Programme 
+    - Honors Thesis: "Dynamic Conditional Score Models: Forecasting Volatility of Exchange Rates"  
+    - Awards:  Faculty of Arts and Social Sciences Dean’s Scholars List (2 semesters), Dean’s List (4 semesters); University Scholars Program Honor Roll (2016), Senior Honor Roll (2017), and President’s Honor Roll (2019)   
     
 
 ## Work Experience
