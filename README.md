@@ -13,8 +13,10 @@ I am a Master's student in Analytics at Georgia Tech, with a strong foundation i
 ## Projects
 Below are some of the projects I have worked on as part of my coursework or personal interest. This section will be updated as I complete new projects
 - ***Soundscape Cartography: Data-Driven Approach to Music Clustering***: Group project for data and visual analytics class. Collected 220k tracks using the Spotify API, applying stratified sampling and feature engineering (e.g., winsorization, PCA) to improve data quality and ensure balanced genre representation. Implemented HDBSCAN and MBD-BIRCH clustering algorithms on a 128k track sample with parameter tuning, and developed an interactive dashboard to visualize and compare hierarchical clusters and track features.
-<img src="/assets/dva/dva_dashboard.png" alt="Clustering Visualization" width="300"/>
-
+<div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
+    <img src="/assets/dva/dva_dashboard1.png" alt="Top Part" width="300"/>
+    <img src="/assets/dva/dva_dashboard2.png" alt="Bottom Part" width="300"/>
+</div>
 - ***Network monitoring:*** Optimization project for water distribution network sensor placement using Python, Gurobi Solver and operations research / linear programming techniques. Formulated integer programs to place sensors across an 811-sensor, 1123-pipe network, minimizing sensor count while maximizing detection probability and prioritizing critical infrastructure locations [github repo](https://github.com/jesstingjh/network-monitoring)
 
 ## Education
@@ -30,11 +32,11 @@ Below are some of the projects I have worked on as part of my coursework or pers
     
 
 ## Work Experience
-- **Senior Economist** *(2020-2024)*
-***Ministry of Trade and Industry, Singapore*** 
-    - **Economic Issues and Insights Unit, Economics Division** *(Jun 2023-Aug 2024)*
-    - **Growth Income and Productivity Unit, Economics Division** *(May 2020-May 2023)*
-    - Promoted from Economist to Senior Economist in Apr 2024
+- **Senior Economist** *(2020-2024)*    
+***Ministry of Trade and Industry, Singapore***     
+    - Economic Issues and Insights Unit, Economics Division *(Jun 2023-Aug 2024)*
+    - Growth Income and Productivity Unit, Economics Division *(May 2020-May 2023)*
+    - Promoted from Economist to Senior Economist *(Apr 2024)*  
 ***Key Responsibilities & Contributions***
     - Drove data-intensive research projects and analyses which involved leveraging STATA, R, and Tableau for data harmonization and cleaning, and advanced statistical analyses
     - Partnered with cross-functional and cross-agency policy teams to contextualize research findings which supported evidence-based policy discussions and the delivery of actionable insights to senior management
