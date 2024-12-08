@@ -5,25 +5,24 @@ I am deeply passionate about picking up new analytical tools, and harnessing mac
 
 
 ## Technical Skills
-**Programming Languages & Software:** Python, SQL, STATA, R, Tableau, Excel; exposure to JavaScript and D3 through coursework   
-**Cloud/Big Data**: Exposure to AWS, GCP, PySpark, Databricks, Azure Machine Learning through coursework    
-**Statistical/Analytical Skills**:  
-- Causal Inference: Survival Analysis, Difference-in-Differences, Matching Methods, Regression Discontinuity Design, Synthetic Controls
-- Machine Learning: Regression, Classification, Clustering, Random Forest
-- Time Series Analysis: Forecasting, Volatility Modeling
-- Others: Data Cleaning & Preprocessing, Optimization & Simulation, Text Analytics
+**Programming Languages & Software:** Python, SQL, STATA, R, Tableau, Excel; exposure to JavaScript and D3 through coursework<br>
+**Cloud/Big Data**: Exposure to AWS, GCP, PySpark, Databricks, Azure Machine Learning through coursework<br> 
+**Statistical/Analytical Skills**:<br>
+- Causal Inference: Survival Analysis, Difference-in-Differences, Matching Methods, Regression Discontinuity Design, Synthetic Controls<br>
+- Machine Learning: Regression, Classification, Clustering, Random Forest<br>
+- Time Series Analysis: Forecasting, Volatility Modeling<br>
+- Others: Data Cleaning & Preprocessing, Optimization & Simulation, Text Analytics<br>
 
 
 ## Projects
-Below are some of the projects I have worked on as part of my coursework or personal interest. This section will be updated as I complete new projects      
-
-***Soundscape Cartography: Data-Driven Approach to Music Clustering***      
+Below are some of the projects I have worked on as part of my coursework or personal interest. This section will be updated as I complete new projects<br>
+***Soundscape Cartography: Data-Driven Approach to Music Clustering***<br>
 - Group project for data and visual analytics class
 - Collected 220k tracks using the Spotify API, applying stratified sampling and feature engineering (e.g., winsorization, PCA) to improve data quality and ensure balanced genre representation. Implemented HDBSCAN and MBD-BIRCH clustering algorithms on a 128k track sample with parameter tuning, and developed an interactive dashboard to visualize and compare hierarchical clusters and track features
 <div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
     <img src="/assets/dva/dva_dashboard1.png" alt="Top Part" style="max-width: 100%; width: 200px;"/>
     <img src="/assets/dva/dva_dashboard2.png" alt="Bottom Part" style="max-width: 100%; width: 200px;"/>
-</div>
+</div>      
 
 ***Patent Citation Network Analysis*** [github](https://github.com/jesstingjh/patent-citation-network)
 - Analyzed the citation network of US patents (1975-1999) using community detection and influence analysis techniques (Louvain & PageRank algorithms) on a dataset of 3.7 million patent nodes and 16.5 million directed citation edges
