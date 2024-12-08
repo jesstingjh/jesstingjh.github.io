@@ -1,5 +1,7 @@
 ## About Me
-I am a Master's student in Analytics at Georgia Tech, with a strong foundation in economics and statistics from my undergraduate degree from the National University of Singapore. In my previous role as a Senior Economist at Singapore's Ministry of Trade and Industry, I contributed to shaping impactful policy decisions through advanced data analytics, econometric modeling, and statistical techniques. I am deeply passionate about picking up new analytical tools, and harnessing machine learning and modelling methods to extract actionable insights from complex datasets. Outside of work, I enjoy puzzle games, bouldering and weightlifting, being outdoors, and am always on the hunt for interesting coffee beans and brews.
+I am a Master's student in Analytics at Georgia Tech, with a strong foundation in economics and statistics from my undergraduate degree from the National University of Singapore. In my previous role as a Senior Economist at Singapore's Ministry of Trade and Industry, I contributed to shaping impactful policy decisions through advanced data analytics, econometric modeling, and statistical techniques. 
+
+I am deeply passionate about picking up new analytical tools, and harnessing machine learning and modelling methods to extract actionable insights from complex datasets. Outside of work, I enjoy puzzle games, bouldering and weightlifting, being outdoors, and am always on the hunt for interesting coffee beans and brews.
 
 
 ## Technical Skills
