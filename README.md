@@ -61,9 +61,9 @@ Below are some of the projects I have worked on as part of my coursework or pers
 
 **Research Assistant / Teaching Assistant / Intern** *(2016-2020)*  
 ***Various government agencies and research bodies***   
-    - Ministry of Health
-    - Ministry of Social and Family Development
-    - National University of Singapore, Economics Department and Lee Kuan Yew School of Public Policy
+- Ministry of Health
+- Ministry of Social and Family Development
+- National University of Singapore, Economics Department and Lee Kuan Yew School of Public Policy
 
 
 ## Articles
