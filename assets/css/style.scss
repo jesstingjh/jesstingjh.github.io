@@ -22,6 +22,7 @@ header {
     gap: 20px;
     text-align: center;
     padding: 20px;
+    margin:  auto;
   }
 
   .profile-img {
@@ -30,6 +31,7 @@ header {
     border-radius: 50%;
     object-fit: cover;
     border: 3px solid #333;
+    margin-bottom: 20px;
   }
 
   .header-text {
@@ -38,6 +40,7 @@ header {
     text-align: center;
     justify-content: center;
     max-width: 500px;
+    margin-bottom: 20px;
   }
 
   h1 {
@@ -82,6 +85,7 @@ header {
   header {
     .header-content {
       flex-direction: column; 
+      align-items: center;
     }
 
     .profile-img {
