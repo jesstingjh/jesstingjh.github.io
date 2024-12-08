@@ -1,22 +1,27 @@
 ## About Me
+<div style="line-height: 1.6;">
 I am a Master's student in Analytics at Georgia Tech, with a strong foundation in economics and statistics from my undergraduate degree from the National University of Singapore. In my previous role as a Senior Economist at Singapore's Ministry of Trade and Industry, I contributed to shaping impactful policy decisions through advanced data analytics, econometric modeling, and statistical techniques. 
 
 I am deeply passionate about picking up new analytical tools, and harnessing machine learning and modelling methods to extract actionable insights from complex datasets. Outside of work, I enjoy puzzle games, bouldering and weightlifting, being outdoors, and am always on the hunt for interesting coffee beans and brews.
+</div>
 
 
 ## Technical Skills
-**Programming Languages & Software:** Python, SQL, STATA, R, Tableau, Excel; exposure to JavaScript and D3 through coursework<br>
-**Cloud/Big Data**: Exposure to AWS, GCP, PySpark, Databricks, Azure Machine Learning through coursework<br> 
-**Statistical/Analytical Skills**:<br>
-- Causal Inference: Survival Analysis, Difference-in-Differences, Matching Methods, Regression Discontinuity Design, Synthetic Controls<br>
-- Machine Learning: Regression, Classification, Clustering, Random Forest<br>
-- Time Series Analysis: Forecasting, Volatility Modeling<br>
-- Others: Data Cleaning & Preprocessing, Optimization & Simulation, Text Analytics<br>
-
+<div style="line-height: 1.6;">
+**Programming Languages & Software:** Python, SQL, STATA, R, Tableau, Excel; exposure to JavaScript and D3 through coursework   
+**Cloud/Big Data**: Exposure to AWS, GCP, PySpark, Databricks, Azure Machine Learning through coursework    
+**Statistical/Analytical Skills**:      
+- Causal Inference: Survival Analysis, Difference-in-Differences, Matching Methods, Regression Discontinuity Design, Synthetic Controls
+- Machine Learning: Regression, Classification, Clustering, Random Forest
+- Time Series Analysis: Forecasting, Volatility Modeling
+- Others: Data Cleaning & Preprocessing, Optimization & Simulation, Text Analytics
+</div>
 
 ## Projects
-Below are some of the projects I have worked on as part of my coursework or personal interest. This section will be updated as I complete new projects<br>
-***Soundscape Cartography: Data-Driven Approach to Music Clustering***<br>
+<div style="line-height: 1.6;">
+Below are some of the projects I have worked on as part of my coursework or personal interest. This section will be updated as I complete new projects      
+
+***Soundscape Cartography: Data-Driven Approach to Music Clustering***      
 - Group project for data and visual analytics class
 - Collected 220k tracks using the Spotify API, applying stratified sampling and feature engineering (e.g., winsorization, PCA) to improve data quality and ensure balanced genre representation. Implemented HDBSCAN and MBD-BIRCH clustering algorithms on a 128k track sample with parameter tuning, and developed an interactive dashboard to visualize and compare hierarchical clusters and track features
 <div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
@@ -31,9 +36,11 @@ Below are some of the projects I have worked on as part of my coursework or pers
 ***Network Monitoring*** [github](https://github.com/jesstingjh/network-monitoring)     
 - Optimization project for water distribution network sensor placement using Python, Gurobi Solver and operations research / linear programming techniques 
 - Formulated integer programs to place sensors across an 811-sensor, 1123-pipe network, minimizing sensor count while maximizing detection probability and prioritizing critical infrastructure locations 
+</div>
 
 
 ## Education
+<div style="line-height: 1.6;">
 **Georgia Institute of Technology**   
 ***MS Analytics*** *(Expected 2025)*  
 - Coursework: Data and Visual Analytics, Computing for Data Analytics, Operations Research for Supply Chains (Linear Programming and Optimisation), Introduction to Analytics, Business Fundamentals
@@ -43,9 +50,11 @@ Below are some of the projects I have worked on as part of my coursework or pers
 - Specialisation: Quantitative Economics; Minor: Statistics; Special Program: University Scholars Programme 
 - Honors Thesis: "Dynamic Conditional Score Models: Forecasting Volatility of Exchange Rates"  
 - Awards:  Faculty of Arts and Social Sciences Dean’s Scholars List (2 semesters), Dean’s List (4 semesters); University Scholars Program Honor Roll (2016), Senior Honor Roll (2017), and President’s Honor Roll (2019)   
+</div>
 
 
 ## Work Experience
+<div style="line-height: 1.6;">
 **Senior Economist** *(2020-2024)*    
 ***Ministry of Trade and Industry, Singapore***     
 *Economic Issues and Insights Unit (Jun 2023-Aug 2024)*     
@@ -63,17 +72,22 @@ Below are some of the projects I have worked on as part of my coursework or pers
 - Ministry of Health
 - Ministry of Social and Family Development
 - National University of Singapore, Economics Department and Lee Kuan Yew School of Public Policy
+</div>
 
 
 ## Articles
+<div style="line-height: 1.6;">
 - ["Increases in Autonomous University Cohort Participation Rate and the Labour Market"](https://www.mti.gov.sg/-/media/MTI/Resources/Economic-Survey-of-Singapore/2024/Economic-Survey-of-Singapore-First-Quarter-2024/FA_1Q24.pdf) *(2024)*
 - ["The Contribution of Intangible Assets to Labour Productivity Growth in Singapore"](https://www.mti.gov.sg/-/media/MTI/Resources/Economic-Survey-of-Singapore/2022/Economic-Survey-of-Singapore-First-Quarter-2022/FA2_1Q22.pdf) *(2022)*
 - ["Drivers of Labour Productivity Growth in Singapore"](https://www.mti.gov.sg/-/media/MTI/Resources/Economic-Survey-of-Singapore/2020/Economic-Survey-of-Singapore-Third-Quarter-2020/FA_3Q20.pdf) *(2020)*
+</div>
 
 
 ## Professional Development
+<div style="line-height: 1.6;">
 - Python Programming and Unstructured Text Analytics (Civil Service College Singapore) *(Feb 2023)*
 - Machine Learning and Big Data Continuing Education Programme (American Economic Association) *(Jan 2023)*
 - Using Text as Data: Methods and Applications (Barcelona School of Economics) *(Jul 2022)*
 - Audited PhD Empirical Research Project Course (Singapore Management University) *(Jan 2022-Apr 2022)*
 - Audited PhD Labor Economics Course (Singapore Management University) *(Mar 2021-May 2021)*
+</div>
