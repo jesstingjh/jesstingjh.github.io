@@ -16,8 +16,11 @@
           {% if site.logo %}
             <img src="{{site.logo | relative_url}}" alt="Logo" class="profile-img" />
           {% endif %}
-          
+
           <div class="header-text">
+            <h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
+            <p class="header">{{ site.description | default: site.github.project_tagline }}</p>
+            
             {% if site.contact_links %}
             <div class="contact-links">
               {% for link in site.contact_links %}
