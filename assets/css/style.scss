@@ -1,11 +1,29 @@
----
----
-
 @import "{{ site.theme }}";
 
-// Make content area wider
+
+@media screen and (max-width: 960px) {
+  .wrapper {
+    width: 100%; 
+    padding: 0 15px; 
+  }
+
+  header {
+    width: 100%; 
+    float: none;
+    text-align: center;
+    position: static; 
+  }
+
+  section {
+    width: 100%;
+    float: none; 
+    padding: 20px 15px; 
+  }
+}
+
+// Original base styles with some minor adjustments
 .wrapper {
-  width: 1100px;
+  max-width: 1100px; 
   margin: 0 auto;
 }
 
@@ -36,9 +54,11 @@ header {
     margin-bottom: 20px;
     
     a {
+      display: inline-block; 
       margin: 0 10px;
       color: #333;
       text-decoration: none;
+      padding: 5px; 
       
       &:hover {
         color: #0366d6;
@@ -48,7 +68,9 @@ header {
 }
 
 body {
-  background-color: #eaefef; 
+  background-color: #eaefef;
+  font-size: 16px;
+  line-height: 1.6; 
 }
 
 // Work experience section styling
@@ -69,9 +91,15 @@ body {
   
   ul {
     margin-top: 10px;
+    padding-left: 20px; 
   }
   
   li {
     margin-bottom: 8px;
   }
+}
+
+img {
+  max-width: 100%;
+  height: auto;
 }

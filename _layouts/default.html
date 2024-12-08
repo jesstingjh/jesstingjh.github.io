@@ -3,7 +3,8 @@
   <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
+    
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
 
 {% seo %}
     <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
@@ -26,7 +27,7 @@
         {% if site.contact_links %}
         <div class="contact-links">
           {% for link in site.contact_links %}
-          <div class="contact-linnk">
+          <div class="contact-link"> <!-- [CHANGE] Fixed typo in class name -->
             <a href="{{ link.url }}" target="_blank">{{ link.label }}</a>
           </div>
           {% endfor %}
