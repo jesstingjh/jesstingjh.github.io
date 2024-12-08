@@ -7,11 +7,7 @@ I am deeply passionate about picking up new analytical tools, and harnessing mac
 ## Technical Skills
 **Programming Languages & Software:** Python, SQL, STATA, R, Tableau, Excel; exposure to JavaScript and D3 through coursework   
 **Cloud/Big Data**: Exposure to AWS, GCP, PySpark, Databricks, Azure Machine Learning through coursework    
-**Statistical/Analytical Skills**:      
-- Causal Inference: Survival Analysis, Difference-in-Differences, Matching Methods, Regression Discontinuity Design, Synthetic Controls
-- Machine Learning: Regression, Classification, Clustering, Random Forest
-- Time Series Analysis: Forecasting, Volatility Modeling
-- Others: Data Cleaning & Preprocessing, Optimization & Simulation, Text Analytics
+**Statistical/Analytical Skills**: Survival Analysis, Difference-in-Differences, Matching Methods, Regression Discontinuity Design, Synthetic Controls, Regression, Classification, Clustering, Random Forest, Time Series Forecasting, Volatility Modeling, Data Cleaning & Preprocessing, Optimization & Simulation, Text Analytics
 
 
 ## Projects
