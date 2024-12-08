@@ -12,40 +12,49 @@ I am a Master's student in Analytics at Georgia Tech, with a strong foundation i
 
 ## Projects
 Below are some of the projects I have worked on as part of my coursework or personal interest. This section will be updated as I complete new projects
-- ***Soundscape Cartography: Data-Driven Approach to Music Clustering***: Group project for data and visual analytics class. Collected 220k tracks using the Spotify API, applying stratified sampling and feature engineering (e.g., winsorization, PCA) to improve data quality and ensure balanced genre representation. Implemented HDBSCAN and MBD-BIRCH clustering algorithms on a 128k track sample with parameter tuning, and developed an interactive dashboard to visualize and compare hierarchical clusters and track features.
+***Soundscape Cartography: Data-Driven Approach to Music Clustering***      
+- Group project for data and visual analytics class
+- Collected 220k tracks using the Spotify API, applying stratified sampling and feature engineering (e.g., winsorization, PCA) to improve data quality and ensure balanced genre representation. Implemented HDBSCAN and MBD-BIRCH clustering algorithms on a 128k track sample with parameter tuning, and developed an interactive dashboard to visualize and compare hierarchical clusters and track features
 <div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
-    <img src="/assets/dva/dva_dashboard1.png" alt="Top Part" width="300"/>
-    <img src="/assets/dva/dva_dashboard2.png" alt="Bottom Part" width="300"/>
+    <img src="/assets/dva/dva_dashboard1.png" alt="Top Part" style="max-width: 100%; width: 300px;"/>
+    <img src="/assets/dva/dva_dashboard2.png" alt="Bottom Part" style="max-width: 100%; width: 300px;"/>
 </div>
-- ***Network monitoring:*** Optimization project for water distribution network sensor placement using Python, Gurobi Solver and operations research / linear programming techniques. Formulated integer programs to place sensors across an 811-sensor, 1123-pipe network, minimizing sensor count while maximizing detection probability and prioritizing critical infrastructure locations [github repo](https://github.com/jesstingjh/network-monitoring)
+
+**Patent Citation Network Analysis** [github](https://github.com/jesstingjh/patent-citation-network)
+- Analyzed the citation network of US patents (1975-1999) using community detection and influence analysis techniques (Louvain & PageRank algorithms) on a dataset of 3.7 million patent nodes and 16.5 million directed citation edges
+- Employed data sampling and preprocessing to handle computational complexity while preserving the network's structural integrity
+
+***Network Monitoring*** [github](https://github.com/jesstingjh/network-monitoring)     
+- Optimization project for water distribution network sensor placement using Python, Gurobi Solver and operations research / linear programming techniques 
+- Formulated integer programs to place sensors across an 811-sensor, 1123-pipe network, minimizing sensor count while maximizing detection probability and prioritizing critical infrastructure locations 
 
 ## Education
-- **Georgia Institute of Technology**   
+**Georgia Institute of Technology**   
 ***MS Analytics*** *(Expected 2025)*  
-    - Coursework: Data and Visual Analytics, Computing for Data Analytics, Operations Research for Supply Chains (Linear Programming and Optimisation), Introduction to Analytics, Business Fundamentals
+- Coursework: Data and Visual Analytics, Computing for Data Analytics, Operations Research for Supply Chains (Linear Programming and Optimisation), Introduction to Analytics, Business Fundamentals
 
-- **National University of Singapore**  
+**National University of Singapore**  
 ***BSc Economics, Highest Distinction, GPA: 4.88/5.00*** *(2015-2019)*   
-    - Specialisation: Quantitative Economics; Minor: Statistics; Special Program: University Scholars Programme 
-    - Honors Thesis: "Dynamic Conditional Score Models: Forecasting Volatility of Exchange Rates"  
-    - Awards:  Faculty of Arts and Social Sciences Dean’s Scholars List (2 semesters), Dean’s List (4 semesters); University Scholars Program Honor Roll (2016), Senior Honor Roll (2017), and President’s Honor Roll (2019)   
+- Specialisation: Quantitative Economics; Minor: Statistics; Special Program: University Scholars Programme 
+- Honors Thesis: "Dynamic Conditional Score Models: Forecasting Volatility of Exchange Rates"  
+- Awards:  Faculty of Arts and Social Sciences Dean’s Scholars List (2 semesters), Dean’s List (4 semesters); University Scholars Program Honor Roll (2016), Senior Honor Roll (2017), and President’s Honor Roll (2019)   
     
 
 ## Work Experience
-- **Senior Economist** *(2020-2024)*    
+**Senior Economist** *(2020-2024)*    
 ***Ministry of Trade and Industry, Singapore***     
-    - Economic Issues and Insights Unit, Economics Division *(Jun 2023-Aug 2024)*
-    - Growth Income and Productivity Unit, Economics Division *(May 2020-May 2023)*
-    - Promoted from Economist to Senior Economist *(Apr 2024)*  
+- Economic Issues and Insights Unit, Economics Division *(Jun 2023-Aug 2024)*
+- Growth Income and Productivity Unit, Economics Division *(May 2020-May 2023)*
+- Promoted from Economist to Senior Economist *(Apr 2024)*      
 ***Key Responsibilities & Contributions***
-    - Drove data-intensive research projects and analyses which involved leveraging STATA, R, and Tableau for data harmonization and cleaning, and advanced statistical analyses
-    - Partnered with cross-functional and cross-agency policy teams to contextualize research findings which supported evidence-based policy discussions and the delivery of actionable insights to senior management
-    - Formulated economic parameters and scenarios for national long-term infrastructure planning workstreams
-    - Developed analytical frameworks by synthesizing economic literature to guide and enhance policy thinking and analysis processes
-    - Mentored interns in coding practices, policy contexts and econometric methodologies for research projects, strengthening team research capabilities and producing deliverables that shaped policy prioritization
-    - Contributed to high-impact organizational workstreams including the 2023 Budget and Committee of Supply debates, review of training material for new officers, and the development of the Economist Service competency framework
+- Drove data-intensive research projects and analyses which involved leveraging STATA, R, and Tableau for data harmonization and cleaning, and advanced statistical analyses
+- Partnered with cross-functional and cross-agency policy teams to contextualize research findings which supported evidence-based policy discussions and the delivery of actionable insights to senior management
+- Formulated economic parameters and scenarios for national long-term infrastructure planning workstreams
+- Developed analytical frameworks by synthesizing economic literature to guide and enhance policy thinking and analysis processes
+- Mentored interns in coding practices, policy contexts and econometric methodologies for research projects, strengthening team research capabilities and producing deliverables that shaped policy prioritization
+- Contributed to high-impact organizational workstreams including the 2023 Budget and Committee of Supply debates, review of training material for new officers, and the development of the Economist Service competency framework
 
-- **Research Assistant / Teaching Assistant / Intern** *(2016-2020)*  
+**Research Assistant / Teaching Assistant / Intern** *(2016-2020)*  
 ***Various government agencies and research bodies***   
     - Ministry of Health
     - Ministry of Social and Family Development

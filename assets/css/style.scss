@@ -1,6 +1,5 @@
 @import "{{ site.theme }}";
 
-
 @media screen and (max-width: 960px) {
   .wrapper {
     width: 100%; 
@@ -35,13 +34,29 @@ section {
 
 // Header styling
 header {
-  width: 270px;
+  width: 100%;
   color: black;
   text-align: center;
 
+  .header-content {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    padding: 20px;
+  }
+
+  // Profile image styling
+  .profile-img {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    margin-bottom: 20px;
+  }
+
   // Style for the role description
   p.header {
-    text-align: center;
     color: #000000;
     font-size: 16px;
     margin: 0 0 20px;
@@ -49,26 +64,29 @@ header {
 
   // Contact links styling
   .contact-links {
-    text-align: center;
+    display: flex;
+    justify-content: center;
     margin-top: 10px;
     margin-bottom: 20px;
     
-    a {
-      display: inline-block; 
+    .contact-link {
       margin: 0 10px;
-      color: #333;
-      text-decoration: none;
-      padding: 5px; 
       
-      &:hover {
-        color: #0366d6;
+      a {
+        color: #333;
+        text-decoration: none;
+        padding: 5px; 
+        
+        &:hover {
+          color: #0366d6;
+        }
       }
     }
   }
 }
 
 body {
-  background-color: #eaefef;
+  background-color: #d3d3d3; /* Light gray background */
   font-size: 16px;
   line-height: 1.6; 
 }
