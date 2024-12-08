@@ -3,12 +3,14 @@ I am a Master's student in Analytics at Georgia Tech, with a strong foundation i
 
 I am deeply passionate about picking up new analytical tools, and harnessing machine learning and modelling methods to extract actionable insights from complex datasets. Outside of work, I enjoy puzzle games, bouldering and weightlifting, being outdoors, and am always on the hunt for interesting coffee beans and brews.
 
+---
 
 ## Technical Skills
-**Programming Languages & Software:** Python, SQL, STATA, R, Tableau, Excel; exposure to JavaScript and D3 through coursework   
-**Cloud/Big Data**: Exposure to AWS, GCP, PySpark, Databricks, Azure Machine Learning through coursework    
-**Statistical/Analytical Skills**: Survival Analysis, Difference-in-Differences, Matching Methods, Regression Discontinuity Design, Synthetic Controls, Regression, Classification, Clustering, Random Forest, Time Series Forecasting, Volatility Modeling, Data Cleaning & Preprocessing, Optimization & Simulation, Text Analytics
+- ***Programming Languages & Software:*** Python, SQL, STATA, R, Tableau, Excel; exposure to JavaScript and D3 
+- ***Cloud/Big Data***: Exposure to AWS, GCP, PySpark, Databricks, Azure Machine Learning  
+- ***Statistical/Analytical Skills***: Survival Analysis, DID, Matching Methods, RDD, Synthetic Controls, Regression, Classification, Clustering, Random Forest, Time Series Forecasting, Volatility Modeling, Data Cleaning & Preprocessing, Optimization & Simulation, Text Analytics
 
+---
 
 ## Projects
 Below are some of the projects I have worked on as part of my coursework or personal interest. This section will be updated as I complete new projects      
@@ -29,6 +31,7 @@ Below are some of the projects I have worked on as part of my coursework or pers
 - Optimization project for water distribution network sensor placement using Python, Gurobi Solver and operations research / linear programming techniques 
 - Formulated integer programs to place sensors across an 811-sensor, 1123-pipe network, minimizing sensor count while maximizing detection probability and prioritizing critical infrastructure locations 
 
+---
 
 ## Education
 **Georgia Institute of Technology**   
@@ -41,6 +44,7 @@ Below are some of the projects I have worked on as part of my coursework or pers
 - Honors Thesis: "Dynamic Conditional Score Models: Forecasting Volatility of Exchange Rates"  
 - Awards:  Faculty of Arts and Social Sciences Dean’s Scholars List (2 semesters), Dean’s List (4 semesters); University Scholars Program Honor Roll (2016), Senior Honor Roll (2017), and President’s Honor Roll (2019)   
 
+---
 
 ## Work Experience
 **Senior Economist** *(2020-2024)*    
@@ -53,18 +57,14 @@ Below are some of the projects I have worked on as part of my coursework or pers
 - Mentored interns in coding practices, policy contexts and econometric methodologies for research projects, strengthening team research capabilities and producing deliverables that shaped policy prioritization
 - Contributed to high-impact organizational workstreams including the 2023 Budget and Committee of Supply debates, review of training material for new officers, and the development of the Economist Service competency framework
 
-**Research Assistant / Teaching Assistant / Intern** *(2016-2020)*  
-***Various government agencies and research bodies***   
-- Ministry of Health
-- Ministry of Social and Family Development
-- National University of Singapore, Economics Department and Lee Kuan Yew School of Public Policy
-
+---
 
 ## Articles
 - ["Increases in Autonomous University Cohort Participation Rate and the Labour Market"](https://www.mti.gov.sg/-/media/MTI/Resources/Economic-Survey-of-Singapore/2024/Economic-Survey-of-Singapore-First-Quarter-2024/FA_1Q24.pdf) *(2024)*
 - ["The Contribution of Intangible Assets to Labour Productivity Growth in Singapore"](https://www.mti.gov.sg/-/media/MTI/Resources/Economic-Survey-of-Singapore/2022/Economic-Survey-of-Singapore-First-Quarter-2022/FA2_1Q22.pdf) *(2022)*
 - ["Drivers of Labour Productivity Growth in Singapore"](https://www.mti.gov.sg/-/media/MTI/Resources/Economic-Survey-of-Singapore/2020/Economic-Survey-of-Singapore-Third-Quarter-2020/FA_3Q20.pdf) *(2020)*
 
+---
 
 ## Professional Development
 - Python Programming and Unstructured Text Analytics (Civil Service College Singapore) *(Feb 2023)*
