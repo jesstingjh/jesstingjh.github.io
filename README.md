@@ -3,9 +3,9 @@ I am a Master's student in Analytics at Georgia Tech, with a strong foundation i
 
 
 ## Technical Skills
-**Programming Languages & Software:** Python, SQL, STATA, R, Tableau, Excel; exposure to JavaScript and D3 through coursework
-**Cloud/Big Data**: Exposure to AWS, GCP, PySpark, Databricks, Azure Machine Learning through coursework
-**Statistical/Analytical Skills**:
+**Programming Languages & Software:** Python, SQL, STATA, R, Tableau, Excel; exposure to JavaScript and D3 through coursework   
+**Cloud/Big Data**: Exposure to AWS, GCP, PySpark, Databricks, Azure Machine Learning through coursework    
+**Statistical/Analytical Skills**:  
 - Causal Inference: Survival Analysis, Difference-in-Differences, Matching Methods, Regression Discontinuity Design, Synthetic Controls
 - Machine Learning: Regression, Classification, Clustering, Random Forest
 - Time Series Analysis: Forecasting, Volatility Modeling
@@ -14,12 +14,13 @@ I am a Master's student in Analytics at Georgia Tech, with a strong foundation i
 
 ## Projects
 Below are some of the projects I have worked on as part of my coursework or personal interest. This section will be updated as I complete new projects      
+
 ***Soundscape Cartography: Data-Driven Approach to Music Clustering***      
 - Group project for data and visual analytics class
 - Collected 220k tracks using the Spotify API, applying stratified sampling and feature engineering (e.g., winsorization, PCA) to improve data quality and ensure balanced genre representation. Implemented HDBSCAN and MBD-BIRCH clustering algorithms on a 128k track sample with parameter tuning, and developed an interactive dashboard to visualize and compare hierarchical clusters and track features
 <div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
-    <img src="/assets/dva/dva_dashboard1.png" alt="Top Part" style="max-width: 100%; width: 300px;"/>
-    <img src="/assets/dva/dva_dashboard2.png" alt="Bottom Part" style="max-width: 100%; width: 300px;"/>
+    <img src="/assets/dva/dva_dashboard1.png" alt="Top Part" style="max-width: 100%; width: 200px;"/>
+    <img src="/assets/dva/dva_dashboard2.png" alt="Bottom Part" style="max-width: 100%; width: 200px;"/>
 </div>
 
 ***Patent Citation Network Analysis*** [github](https://github.com/jesstingjh/patent-citation-network)
@@ -46,7 +47,9 @@ Below are some of the projects I have worked on as part of my coursework or pers
 ## Work Experience
 **Senior Economist** *(2020-2024)*    
 ***Ministry of Trade and Industry, Singapore***     
-(Economic Issues and Insights Unit (Jun 2023-Aug 2024); Growth Income and Productivity Unit (May 2020-May 2023); Promoted from Economist to Senior Economist (Apr 2024))    
+*Economic Issues and Insights Unit (Jun 2023-Aug 2024)*     
+*Growth Income and Productivity Unit (May 2020-May 2023)*       
+*Promoted from Economist to Senior Economist (Apr 2024)*          
 - Drove data-intensive research projects and analyses which involved leveraging STATA, R, and Tableau for data harmonization and cleaning, and advanced statistical analyses
 - Partnered with cross-functional and cross-agency policy teams to contextualize research findings which supported evidence-based policy discussions and the delivery of actionable insights to senior management
 - Formulated economic parameters and scenarios for national long-term infrastructure planning workstreams
@@ -61,7 +64,7 @@ Below are some of the projects I have worked on as part of my coursework or pers
     - National University of Singapore, Economics Department and Lee Kuan Yew School of Public Policy
 
 
-## Publications & Articles
+## Articles
 - ["Increases in Autonomous University Cohort Participation Rate and the Labour Market"](https://www.mti.gov.sg/-/media/MTI/Resources/Economic-Survey-of-Singapore/2024/Economic-Survey-of-Singapore-First-Quarter-2024/FA_1Q24.pdf) *(2024)*
 - ["The Contribution of Intangible Assets to Labour Productivity Growth in Singapore"](https://www.mti.gov.sg/-/media/MTI/Resources/Economic-Survey-of-Singapore/2022/Economic-Survey-of-Singapore-First-Quarter-2022/FA2_1Q22.pdf) *(2022)*
 - ["Drivers of Labour Productivity Growth in Singapore"](https://www.mti.gov.sg/-/media/MTI/Resources/Economic-Survey-of-Singapore/2020/Economic-Survey-of-Singapore-Third-Quarter-2020/FA_3Q20.pdf) *(2020)*

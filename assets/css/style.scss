@@ -36,7 +36,7 @@ header {
   .header-text {
     display: flex;
     flex-direction: column;
-    align-items: center;
+    text-align: center;
     max-width: 500px;
   }
 
@@ -57,6 +57,7 @@ header {
   }
 
   .contact-links {
+    text-align: center;
     display: flex;
     justify-content: center;
     flex-wrap: wrap;
