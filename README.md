@@ -12,7 +12,7 @@ I am deeply passionate about picking up new analytical tools, and harnessing mac
 - Machine Learning: Regression, Classification, Clustering, Random Forest
 - Time Series Analysis: Forecasting, Volatility Modeling
 - Others: Data Cleaning & Preprocessing, Optimization & Simulation, Text Analytics
-</div>
+
 
 ## Projects
 Below are some of the projects I have worked on as part of my coursework or personal interest. This section will be updated as I complete new projects      
@@ -48,10 +48,8 @@ Below are some of the projects I have worked on as part of my coursework or pers
 
 ## Work Experience
 **Senior Economist** *(2020-2024)*    
-***Ministry of Trade and Industry, Singapore***     
-*Economic Issues and Insights Unit (Jun 2023-Aug 2024)*     
-*Growth Income and Productivity Unit (May 2020-May 2023)*       
-*Promoted from Economist to Senior Economist (Apr 2024)*          
+***Ministry of Trade and Industry, Singapore***          
+*Promoted from Economist to Senior Economist (Apr 2024)*    
 - Drove data-intensive research projects and analyses which involved leveraging STATA, R, and Tableau for data harmonization and cleaning, and advanced statistical analyses
 - Partnered with cross-functional and cross-agency policy teams to contextualize research findings which supported evidence-based policy discussions and the delivery of actionable insights to senior management
 - Formulated economic parameters and scenarios for national long-term infrastructure planning workstreams
