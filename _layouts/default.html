@@ -13,21 +13,18 @@
     <div class="wrapper">
       <header>
         <div class="header-content">
-          <!-- Name now appears first and is centered -->
-          <div class="header-text">
-            <h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
-          </div>
-          
-          <!-- Profile picture remains in its original position -->
+          <!-- Name -->
+          <h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
+
+          <!-- Profile picture -->
           {% if site.logo %}
             <img src="{{site.logo | relative_url}}" alt="Logo" class="profile-img" />
           {% endif %}
-          
-          <!-- Description and contact links now appear after the profile picture -->
-          <div class="header-text">
-            <p class="header">{{ site.description | default: site.github.project_tagline }}</p>
-          </div>
-          
+
+          <!-- Description -->
+          <p class="header">{{ site.description | default: site.github.project_tagline }}</p>
+
+          <!-- Contact links -->
           <div class="contact-links">
             {% if site.contact_links %}
               {% for link in site.contact_links %}
