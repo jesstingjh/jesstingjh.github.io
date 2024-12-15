@@ -21,10 +21,17 @@ body {
   box-sizing: border-box;
 }
 
+.header {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 20px;
+}
+
 .profile {
   display: flex;
   justify-content: center;
-  margin-bottom: 20px;
 }
 
 .profile-img {
