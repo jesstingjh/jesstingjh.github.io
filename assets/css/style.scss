@@ -21,12 +21,6 @@ body {
   box-sizing: border-box;
 }
 
-.profile {
-  display: flex;
-  justify-content: center;
-  margin-bottom: 20px;
-}
-
 .profile-img {
   width: 200px;
   height: 200px;
@@ -35,13 +29,14 @@ body {
   border: 3px solid #333;
 }
 
-h1 {
+.name {
+  margin-top: 20px;
   margin-bottom: 10px;
   color: #333;
   text-decoration: none;
 }
 
-p.header {
+.description {
   color: #666;
   font-size: 18px;
   margin-bottom: 15px;

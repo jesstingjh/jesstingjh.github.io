@@ -13,15 +13,11 @@
     <div class="wrapper">
       <header>
         <div class="header">
-          {% if site.logo %}
-            <div class="profile">
-              <img src="{{site.logo | relative_url}}" alt="Logo" class="profile-img" />
-            </div>
-          {% endif %}
-          <h1>
-            <a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a>
-          </h1>
-          <p class="header">{{ site.description | default: site.github.project_tagline }}</p>
+          <div class="profile">
+            <img src="{{site.logo | relative_url}}" alt="Logo" class="profile-img" />
+          </div>
+          <h1 class="name">{{ site.title | default: site.github.repository_name }}</h1>
+          <p class="description">{{ site.description | default: site.github.project_tagline }}</p>
           <div class="contact-links">
             {% if site.contact_links %}
               {% for link in site.contact_links %}
