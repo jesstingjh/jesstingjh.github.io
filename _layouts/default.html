@@ -1,28 +1,42 @@
-<div class="wrapper">
-  <header>
-    <div class="header">
-      <div class="profile">
-        <img src="{{site.logo | relative_url}}" alt="Logo" class="profile-img" />
-      </div>
-      <h1 class="name">{{ site.title | default: site.github.repository_name }}</h1>
-      <p class="description">{{ site.description | default: site.github.project_tagline }}</p>
-      <div class="contact-links">
-        {% if site.contact_links %}
-          {% for link in site.contact_links %}
-            <div class="contact-link">
-              <a href="{{ link.url }}" target="_blank">{{ link.label }}</a>
-            </div>
-          {% endfor %}
-        {% endif %}
-      </div>
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: "en-US" }}">
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    {% seo %}
+    <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
+    {% include head-custom.html %}
+  </head>
+  <body>
+    <div class="wrapper">
+      <header>
+        <div class="header">
+          <div class="profile">
+            <img src="{{site.logo | relative_url}}" alt="Logo" class="profile-img" />
+          </div>
+          <h1 class="name">{{ site.title | default: site.github.repository_name }}</h1>
+          <p class="description">{{ site.description | default: site.github.project_tagline }}</p>
+          <div class="contact-links">
+            {% if site.contact_links %}
+              {% for link in site.contact_links %}
+                <div class="contact-link">
+                  <a href="{{ link.url }}" target="_blank">{{ link.label }}</a>
+                </div>
+              {% endfor %}
+            {% endif %}
+          </div>
+        </div>
+      </header>
+      
+      <section>
+        {{ content }}
+      </section>
+      
+      <footer>
+        <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
+      </footer>
     </div>
-  </header>
-  
-  <section>
-    {{ content }}
-  </section>
-  
-  <footer>
-    <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
-  </footer>
-</div>
+  </body>
+</html>
