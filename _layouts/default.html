@@ -16,12 +16,12 @@
           <div class="profile">
             <img src="{{site.logo | relative_url}}" alt="Logo" class="profile-img" />
           </div>
-          <h1 class="name">{{ site.title | default: site.github.repository_name }}</h1>
+          <h1 class="title">{{ site.title | default: site.github.repository_name }}</h1>
           <p class="description">{{ site.description | default: site.github.project_tagline }}</p>
-          <div class="contact-links">
+          <div class="contact_links">
             {% if site.contact_links %}
               {% for link in site.contact_links %}
-                <div class="contact-link">
+                <div class="contact_link">
                   <a href="{{ link.url }}" target="_blank">{{ link.label }}</a>
                 </div>
               {% endfor %}
