@@ -21,6 +21,19 @@ body {
   box-sizing: border-box;
 }
 
+.header {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 20px;
+}
+
+.profile {
+  display: flex;
+  justify-content: center;
+}
+
 .profile-img {
   width: 200px;
   height: 200px;
@@ -30,7 +43,6 @@ body {
 }
 
 .name {
-  margin-top: 20px;
   margin-bottom: 10px;
   color: #333;
   text-decoration: none;
