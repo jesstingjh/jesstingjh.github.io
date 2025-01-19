@@ -15,6 +15,12 @@ I am deeply passionate about picking up new analytical tools, and harnessing mac
 ## Projects
 Below are some of the projects I have worked on as part of my coursework or personal interest. This section will be updated as I complete new projects      
 
+***Outage Detection using Customer Interaction Data from Cox Communications*** 
+- Placed 3rd in cohort-wide Project Week Competition in the MS Analytics Program
+- Processed and analyzed large historical datasets of customer interaction data across multiple channels 
+- Used anomaly detection models (MSTL, Isolation Forest) to identify outages, which were not directly available in the data
+- Developed a real-time rolling window prediction model (Random Forest) to predict outages at higher frequencies, which would enable faster response times and reduced customer impact when outages occur
+
 ***Soundscape Cartography: Data-Driven Approach to Music Clustering***      
 - Group project for data and visual analytics class
 - Collected 220k tracks using the Spotify API, applying stratified sampling and feature engineering (e.g., winsorization, PCA) to improve data quality and ensure balanced genre representation. Implemented HDBSCAN and MBD-BIRCH clustering algorithms on a 128k track sample with parameter tuning, and developed an interactive dashboard to visualize and compare hierarchical clusters and track features
@@ -35,8 +41,8 @@ Below are some of the projects I have worked on as part of my coursework or pers
 
 ## Education
 **Georgia Institute of Technology**   
-***MS Analytics*** *(Expected 2025)*  
-- Coursework: Data and Visual Analytics, Computing for Data Analytics, Operations Research for Supply Chains (Linear Programming and Optimisation), Introduction to Analytics, Business Fundamentals
+***MS Analytics, CGPA: 4.0/4.0*** *(Expected 2025)*  
+- Relevant Coursework: Data and Visual Analytics, Linear Programming and Optimization, Machine Learning, Graduate Algorithms, High-dimensional Data Analytics   
 
 **National University of Singapore**  
 ***BSc Economics, Highest Distinction, GPA: 4.88/5.00*** *(2015-2019)*   
