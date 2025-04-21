@@ -18,9 +18,9 @@ I enjoy applying machine learning and statistical techniques to uncover patterns
 ## Projects
 Below are some of the projects I have worked on as part of my coursework or personal interest. This section will be updated as I complete new projects      
 
-***Yelp Review Sentiment Modeling and Thematic Analysis***
+***Context-Aware Sentiment Analysis of Yelp Reviews using Fine-Tuned DistilBERT*** [github](https://github.com/jesstingjh/contextual-sentiment-yelp)
 - Fine-tuned an LLM (DistilBERT) to predict positive reviews (4+ stars), incorporating contextual tokens from user and business data. Used stratified sampling, class-weighted loss, and F1-optimized thresholds to handle class imbalance
-- Improved F1 score from 74% to 95%; used SHAP and TF-IDF to identify key sentiment drivers across time, location, and business traits
+- Improved accuracy from 71% to 93%, and F1 score from 74% to 95%; used TF-IDF to identify key sentiment drivers across time, location, and business traits
 
 ***Outage Detection using Customer Interaction Data (Cox Communications)*** 
 - Placed 3rd in cohort-wide competition (MSA Project Week)
