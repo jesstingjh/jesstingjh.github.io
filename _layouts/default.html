@@ -11,7 +11,7 @@
   <body>
     <div class="page-wrapper">
       <div class="layout">
-        <aside class="sidebar">
+        <div class="profile-container">
           <img src="{{site.logo | relative_url}}" alt="Logo" class="profile-img" />
           <h1 class="title">{{ site.title }}</h1>
           <p class="description">{{ site.description }}</p>
@@ -24,14 +24,13 @@
               {% endfor %}
             {% endif %}
           </div>
-        </aside>
+        </div>
         <main class="content">
-          <section>
+          <div class="content-inner">
             {{ content }}
-          </section>
+          </div>
         </main>
       </div>
-  
       <footer class="page-footer">
         <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
       </footer>
