@@ -6,7 +6,6 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     {% seo %}
     <link rel="stylesheet" href="/assets/css/style.css?v={{ site.time | date: '%s' }}">
-
     {% include head-custom.html %}
   </head>
   <body>
@@ -24,14 +23,15 @@
             {% endif %}
           </div>
         </aside>
-        
+
         <main class="main-content">
           {{ content }}
-          <footer class="footer">
-            <p class="footer-text">Hosted on GitHub Pages — Theme by <a href="https://github.com/orderedlist">orderedlist</a></p>
-          </footer>
         </main>
       </div>
+
+      <footer class="footer">
+        <p class="footer-text">Hosted on GitHub Pages — Theme by <a href="https://github.com/orderedlist">orderedlist</a></p>
+      </footer>
     </div>
-  </body>  
+  </body>
 </html>
