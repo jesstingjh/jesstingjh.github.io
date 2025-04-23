@@ -10,21 +10,24 @@ html, body {
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
 }
 
-.page {
+.layout {
   display: flex;
   min-height: 100vh;
+  overflow-x: hidden;
 }
 
 .sidebar {
   width: 280px;
-  padding: 40px 20px;
   background-color: #ffffff;
-  border-right: 1px solid #e0e0e0;
+  padding: 40px 20px;
+  box-sizing: border-box;
   position: fixed;
-  top: 0;
-  left: 0;
-  bottom: 0;
+  height: 100vh;
   overflow-y: auto;
+  border-right: 1px solid #e0e0e0;
+}
+
+.profile {
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -49,7 +52,7 @@ html, body {
 .description {
   font-size: 16px;
   color: #555;
-  margin: 10px 0 20px 0;
+  margin: 10px 0 20px;
 }
 
 .contact_links {
@@ -58,7 +61,7 @@ html, body {
   gap: 10px;
 }
 
-.contact_links a {
+.contact_link a {
   color: #020c18;
   text-decoration: none;
   padding: 5px;
@@ -66,15 +69,16 @@ html, body {
   transition: background-color 0.3s ease;
 }
 
-.contact_links a:hover {
+.contact_link a:hover {
   background-color: rgba(3, 9, 16, 0.1);
 }
 
-.main-content {
+.content {
   margin-left: 280px;
   padding: 40px 40px;
-  flex-grow: 1;
   box-sizing: border-box;
+  width: 100%;
+  max-width: 100%;
 }
 
 section {
@@ -84,25 +88,25 @@ section {
 }
 
 footer {
-  width: 100%;
   text-align: center;
   padding: 20px 0;
   color: #888;
 }
 
 @media screen and (max-width: 768px) {
-  .page {
+  .layout {
     flex-direction: column;
   }
 
   .sidebar {
     position: relative;
     width: 100%;
+    height: auto;
     border-right: none;
     border-bottom: 1px solid #e0e0e0;
   }
 
-  .main-content {
+  .content {
     margin-left: 0;
     padding: 20px;
   }
