@@ -6,12 +6,12 @@ I enjoy applying machine learning and statistical techniques to uncover patterns
 ---
 
 ## Technical Skills
-- ***Programming & Tools:*** Python, SQL, R, STATA, Tableau, Git; exposure to JavaScript, D3
-- ***Cloud/Big Data***: AWS, GCP, PySpark, Azure ML, Databricks 
-- ***Statistics & ML***: 
-    - <u>Causal Inference</u>: DiD, Matching [CEM, PSM], RD, Synthetic Controls, A/B Testing, Survival Analysis
-    - <u>Machine Learning</u>: Supervised/Unsupervised Learning, Neural Networks, Regression, Classification, Clustering, Random Forest, Anomaly Detection, Time Series, Image, Network Analysis 
-    - <u>NLP & LLMs</u>: Sentiment/Topic Analysis, Transformers [BERT, DistilBERT]
+***Programming & Tools:*** Python, SQL, R, STATA, Tableau, Git; exposure to JavaScript, D3
+***Cloud/Big Data***: AWS, GCP, PySpark, Azure ML, Databricks 
+***Statistics & ML***: 
+- <u>Causal Inference</u>: DiD, Matching [CEM, PSM], RD, Synthetic Controls, A/B Testing, Survival Analysis
+- <u>Machine Learning</u>: Supervised/Unsupervised Learning, Neural Networks, Regression, Classification, Clustering, Random Forest, Anomaly Detection, Time Series, Image, Network Analysis 
+- <u>NLP & LLMs</u>: Sentiment/Topic Analysis, Transformers [BERT, DistilBERT]
 
 ---
 
