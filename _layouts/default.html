@@ -10,29 +10,25 @@
   </head>
   <body>
     <div class="page-wrapper">
-      <div class="layout">
-        <div class="profile-container">
-          <img src="{{site.logo | relative_url}}" alt="Logo" class="profile-img" />
-          <h1 class="title">{{ site.title }}</h1>
-          <p class="description">{{ site.description }}</p>
-          <div class="contact_links">
-            {% if site.contact_links %}
-              {% for link in site.contact_links %}
-                <div class="contact_link">
-                  <a href="{{ link.url }}" target="_blank">{{ link.label }}</a>
-                </div>
-              {% endfor %}
-            {% endif %}
-          </div>
+      <div class="profile-section">
+        <img src="{{site.logo | relative_url}}" alt="Logo" class="profile-img" />
+        <h1 class="title">{{ site.title }}</h1>
+        <p class="description">{{ site.description }}</p>
+        <div class="contact-links">
+          {% if site.contact_links %}
+            {% for link in site.contact_links %}
+              <a href="{{ link.url }}" target="_blank" class="contact-link">{{ link.label }}</a>
+            {% endfor %}
+          {% endif %}
         </div>
-        <main class="content">
-          <div class="content-inner">
-            {{ content }}
-          </div>
-        </main>
       </div>
-      <footer class="page-footer">
-        <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
+      
+      <main class="main-content">
+        {{ content }}
+      </main>
+      
+      <footer class="footer">
+        <p class="footer-text">Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></p>
       </footer>
     </div>
   </body>  
