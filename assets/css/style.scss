@@ -67,7 +67,6 @@ html, body {
   color: #4a5568;
   margin: 0 auto 20px;
   line-height: 1.5;
-  text-align: center;
 }
 
 .contact-links {
@@ -93,20 +92,6 @@ html, body {
   width: 100%;
   max-width: 700px;
   min-height: 130vh;
-}
-
-p {
-  text-align: justify;
-}
-
-ul, ol {
-  margin-left: 0;
-  padding-left: 1.25em;
-}
-
-li {
-  margin-bottom: 6px;
-  line-height: 1.6;
 }
 
 .main-content > * {
