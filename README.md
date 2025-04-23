@@ -36,6 +36,7 @@ Below are some of the projects I have worked on as part of my coursework or pers
     <img src="/assets/dva/dva_dashboard2.png" alt="Bottom Part" style="max-width: 100%; width: 200px;"/>
 </div>      
 
+
 ***SNAP US Patent Citation Network Analysis*** [github](https://github.com/jesstingjh/patent-citation-network)
 - Analyzed the citation network of US patents (1975-1999) using community detection and influence analysis techniques (Louvain & PageRank algorithms) on a dataset of 3.7 million patent nodes and 16.5 million directed citation edges
 - Employed data sampling and preprocessing to handle computational complexity while preserving the network's structural integrity
