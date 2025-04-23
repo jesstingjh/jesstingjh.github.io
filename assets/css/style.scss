@@ -15,9 +15,7 @@ html, body {
 }
 
 .page-wrapper {
-  display: flex;
-  flex-direction: column;
-  min-height: 100vh;
+  display: block;
   padding: 40px 20px;
 }
 
@@ -27,7 +25,6 @@ html, body {
   width: 100%;
   max-width: 1100px;
   margin: 0 auto;
-  flex-grow: 1;
 }
 
 @media (min-width: 768px) {
@@ -94,6 +91,7 @@ html, body {
 .main-content {
   width: 100%;
   max-width: 700px;
+  min-height: 130vh;
 }
 
 .main-content > * {
@@ -108,7 +106,6 @@ html, body {
 }
 
 .footer {
-  margin-top: auto;
   padding-top: 40px;
   border-top: 1px solid #e2e8f0;
   text-align: center;
