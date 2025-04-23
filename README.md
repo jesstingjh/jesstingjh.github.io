@@ -33,7 +33,7 @@ Below are some of the projects I have worked on as part of my coursework or pers
 - Implemented HDBSCAN and MBD-BIRCH clustering algorithms on a 128k track sample with parameter tuning, and developed an interactive dashboard to visualize and compare hierarchical clusters and track features
 <div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
     <img src="/assets/dva/dva_dashboard1.png" alt="Top Part" style="max-width: 100%; width: 200px;"/>
-    <img src="/assets/dva/dva_dashboard2.png" alt="Bottom Part" style="max-width: 100%; width: 200px;"/>
+    <img src="/assets/dva/dva_dashboard2.png" alt="Bottom Part" style="max-width: 100%; width: 200px"/>
 </div>      
 
 

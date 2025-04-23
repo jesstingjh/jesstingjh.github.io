@@ -22,24 +22,19 @@ html, body {
   width: 100%;
   max-width: 1200px;
   margin: 0 auto;
-  box-sizing: border-box;
-  padding: 40px 20px;
-  gap: 40px;
+  padding: 40px 0;
 }
 
 .sidebar {
-  width: 280px;
-  padding: 20px;
-  box-sizing: border-box;
+  width: 300px;
+  padding: 0 40px 0 20px;
+  position: sticky;
+  top: 40px;
+  align-self: flex-start;
   display: flex;
   flex-direction: column;
   align-items: center;
   text-align: center;
-  flex-shrink: 0;
-  position: sticky;
-  top: 40px;
-  height: fit-content;
-  align-self: flex-start;
 }
 
 .profile-img {
@@ -82,11 +77,9 @@ html, body {
 }
 
 .content {
-  flex-grow: 1;
-  max-width: 800px;
-  width: calc(100% - 320px);
-  box-sizing: border-box;
-  padding: 0 20px;
+  flex: 1;
+  padding: 0 20px 0 0;
+  max-width: calc(100% - 300px);
 }
 
 section {
@@ -99,22 +92,19 @@ section {
   font-size: 13px;
   color: #888;
   width: 100%;
-  margin-top: auto;
-  position: static;
 }
 
 @media screen and (max-width: 768px) {
   .layout {
     flex-direction: column;
     padding: 20px;
-    gap: 20px;
   }
 
   .sidebar {
     width: 100%;
     padding: 0;
-    margin-bottom: 20px;
     position: static;
+    margin-bottom: 30px;
   }
 
   .profile-img {
@@ -123,7 +113,7 @@ section {
   }
 
   .content {
-    width: 100%;
+    max-width: 100%;
     padding: 0;
   }
 }
