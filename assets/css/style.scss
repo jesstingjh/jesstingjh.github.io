@@ -3,14 +3,14 @@
 @import "{{ site.theme }}";
 
 html, body {
-  height: 100%;
   margin: 0;
   padding: 0;
+  height: 100%;
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
   background-color: #f5f7fa;
 }
 
-.layout-container {
+.page-wrapper {
   display: flex;
   flex-direction: column;
   min-height: 100vh;
@@ -18,24 +18,21 @@ html, body {
 
 .layout {
   display: flex;
-  flex-direction: row;
   flex-grow: 1;
-  width: 100%;
-  max-width: 1200px;
-  margin: 0 auto;
-  box-sizing: border-box;
+  justify-content: center;
   padding: 40px 20px;
+  box-sizing: border-box;
+  flex-wrap: nowrap;
 }
 
 .sidebar {
-  width: 320px;
-  padding-right: 20px;
-  box-sizing: border-box;
+  width: 300px;
+  margin-right: 40px;
   display: flex;
   flex-direction: column;
   align-items: center;
   text-align: center;
-  background-color: #f5f7fa;
+  flex-shrink: 0;
 }
 
 .profile-img {
@@ -78,8 +75,7 @@ html, body {
 }
 
 .content {
-  flex-grow: 1;
-  max-width: 880px;
+  max-width: 800px;
   width: 100%;
   box-sizing: border-box;
 }
@@ -91,21 +87,22 @@ section {
 .page-footer {
   text-align: center;
   padding: 20px 0;
-  color: #888;
   font-size: 13px;
+  color: #888;
+  margin-top: auto;
   width: 100%;
-  box-sizing: border-box;
 }
 
 @media screen and (max-width: 768px) {
   .layout {
     flex-direction: column;
-    padding: 20px;
+    align-items: center;
   }
 
   .sidebar {
     width: 100%;
-    padding: 0 0 20px;
+    margin-right: 0;
+    margin-bottom: 20px;
   }
 
   .profile-img {
@@ -114,6 +111,6 @@ section {
   }
 
   .content {
-    padding: 0;
+    padding: 0 10px;
   }
 }
