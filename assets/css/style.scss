@@ -26,6 +26,7 @@ body {
   display: flex;
   flex-direction: column;
   align-items: center;
+  text-align: center;
   gap: 20px;
 }
 
@@ -56,7 +57,7 @@ body {
   text-align: center;
 }
 
-.contact_links {
+.contact-links {
   display: flex;
   justify-content: center;
   align-items: center;
@@ -66,7 +67,7 @@ body {
   width: 100%;
 }
 
-.contact_link a {
+.contact-links a {
   color: #020c18;
   text-decoration: none;
   text-align: center;
@@ -75,7 +76,7 @@ body {
   transition: background-color 0.3s ease;
 }
 
-.contact-link a:hover {
+.contact-links a:hover {
   background-color: rgba(3, 9, 16, 0.1);
 }
 
