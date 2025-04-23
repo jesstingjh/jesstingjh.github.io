@@ -48,6 +48,7 @@ body {
   color: #333;
   text-decoration: none;
   text-align: center;
+  align-items: center;
 }
 
 .description {
@@ -55,9 +56,10 @@ body {
   font-size: 18px;
   margin-bottom: 15px;
   text-align: center;
+  align-items: center;
 }
 
-.contact-links {
+.contact_links {
   display: flex;
   justify-content: center;
   align-items: center;
@@ -67,7 +69,7 @@ body {
   width: 100%;
 }
 
-.contact-links a {
+.contact_links a {
   color: #020c18;
   text-decoration: none;
   text-align: center;
@@ -76,7 +78,7 @@ body {
   transition: background-color 0.3s ease;
 }
 
-.contact-links a:hover {
+.contact_links a:hover {
   background-color: rgba(3, 9, 16, 0.1);
 }
 
@@ -93,7 +95,7 @@ section {
     height: 150px;
   }
 
-  .contact-links {
+  .contact_links {
     flex-direction: column;
     align-items: center;
   }
