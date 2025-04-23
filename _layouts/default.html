@@ -9,9 +9,9 @@
     {% include head-custom.html %}
   </head>
   <body>
-    <div class="layout">
-      <aside class="sidebar">
-        <div class="sidebar-content">
+    <div class="layout-container">
+      <div class="layout">
+        <aside class="sidebar">
           <img src="{{site.logo | relative_url}}" alt="Logo" class="profile-img" />
           <h1 class="title">{{ site.title }}</h1>
           <p class="description">{{ site.description }}</p>
@@ -24,17 +24,19 @@
               {% endfor %}
             {% endif %}
           </div>
-          <div class="sidebar-footer">
-            <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
-          </div>
-        </div>
-      </aside>
+        </aside>
   
-      <main class="content">
-        <section>
-          {{ content }}
-        </section>
-      </main>
+        <main class="content">
+          <section>
+            {{ content }}
+          </section>
+        </main>
+      </div>
+  
+      <footer class="page-footer">
+        <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
+      </footer>
     </div>
-  </body>  
+  </body>
+  
 </html>
