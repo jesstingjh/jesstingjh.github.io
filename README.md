@@ -24,7 +24,7 @@ Below are some of the projects I have worked on as part of my coursework or pers
 
 ***Outage Detection using Customer Interaction Data (Cox Communications)*** 
 - Placed 3rd in cohort-wide competition (MSA Project Week)
-- Processed high-volume multichannel customer interaction logs and used anomaly detection models (MSTL, Isolation Forest) to detect latent outages explicitly labeled in the data
+- Processed high-volume multichannel customer interaction logs and used anomaly detection models (MSTL, Isolation Forest) to detect latent outages not explicitly labeled in the data
 - Developed a rolling-window Random Forest model for near real-time outage prediction, enabling faster remediation
 
 ***Hierarchical Clustering of Music Tracks for Better Genre Representation***      
