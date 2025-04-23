@@ -3,11 +3,10 @@
 @import "{{ site.theme }}";
 
 body {
-  background-color: #fce9e9;
+  background-color: #ecf0f0f2;
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
   display: flex;
   justify-content: center;
-  align-items: center;
   min-height: 100vh;
   margin: 0;
 }
@@ -27,7 +26,6 @@ body {
   width: 100%;
   display: flex;
   flex-direction: column;
-  align-items: center;
   text-align: center;
   gap: 20px;
 }
@@ -64,7 +62,6 @@ body {
 .contact_links {
   display: flex;
   justify-content: center;
-  align-items: center;
   text-align: center;
   flex-wrap: wrap;
   gap: 15px;
