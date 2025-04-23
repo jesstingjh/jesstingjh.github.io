@@ -10,32 +10,31 @@
   </head>
   <body>
     <div class="page">
-      <div class="wrapper">
-        <header>
-          <div class="header">
-            <div class="profile">
-              <img src="{{site.logo | relative_url}}" alt="Logo" class="profile-img" />
-            </div>
-            <h1 class="title">{{ site.title | default: site.github.repository_name }}</h1>
-            <p class="description">{{ site.description | default: site.github.project_tagline }}</p>
-            <div class="contact_links">
-              {% if site.contact_links %}
-                {% for link in site.contact_links %}
-                  <div class="contact_link">
-                    <a href="{{ link.url }}" target="_blank">{{ link.label }}</a>
-                  </div>
-                {% endfor %}
-              {% endif %}
-            </div>
+      <div class="sidebar">
+        <div class="profile">
+          <img src="{{site.logo | relative_url}}" alt="Logo" class="profile-img" />
+          <h1 class="title">{{ site.title }}</h1>
+          <p class="description">{{ site.description }}</p>
+          <div class="contact_links">
+            {% if site.contact_links %}
+              {% for link in site.contact_links %}
+                <div class="contact_link">
+                  <a href="{{ link.url }}" target="_blank">{{ link.label }}</a>
+                </div>
+              {% endfor %}
+            {% endif %}
           </div>
-        </header>
+        </div>
+      </div>
+  
+      <div class="main-content">
         <section>
           {{ content }}
         </section>
+        <footer>
+          <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
+        </footer>
       </div>
-      <footer>
-        <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
-      </footer>
     </div>
-  </body>
+  </body>  
 </html>
