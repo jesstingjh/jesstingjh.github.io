@@ -106,25 +106,23 @@ html, body {
 }
 
 p {
-  margin-bottom: 0.4rem;
+  margin-bottom: 0.5rem;
   line-height: 1.6;
 }
 
 p + ul {
-  margin-top: -0.4rem;
-  margin-bottom: 0.8rem;
+  margin-top: -0.3rem;
+  margin-bottom: 1rem;
 }
 
 ul {
-  list-style-position: outside;
-  padding-left: 1.25rem;
-  margin: 0.5rem 0 1rem 0;
+  list-style: disc;
+  padding-left: 1.4rem;
+  margin-top: 0;
+  margin-bottom: 1rem;
 }
 
 li {
-  text-indent: 0;
-  padding-left: 0;
-  margin-left: 0;
   line-height: 1.6;
   margin-bottom: 0.3rem;
 }
