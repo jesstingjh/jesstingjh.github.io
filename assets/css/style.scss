@@ -112,20 +112,22 @@ p {
 }
 
 p + ul {
-  margin-top: -0.2rem;
+  margin-top: 0.1rem;
   margin-bottom: 0.8rem;
 }
 
 ul {
-  padding-left: 1.25rem;
-  margin: 0.3rem 0 0.8rem;
+  list-style: disc;
+  list-style-position: inside;
+  padding-left: 0;
+  margin-top: 0.1rem;
+  margin-bottom: 0.8rem;
 }
 
 li {
   line-height: 1.5;
-  margin-bottom: 0.2rem;
+  margin-bottom: 0.1rem;
   padding-left: 0;
-  text-indent: 0;
 }
 
 .footer {
