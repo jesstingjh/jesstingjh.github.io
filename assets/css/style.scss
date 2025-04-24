@@ -16,7 +16,7 @@ html, body {
 
 .page-wrapper {
   display: block;
-  padding: 40px 20px;
+  padding: 30px 20px;
 }
 
 .layout {
@@ -65,7 +65,7 @@ html, body {
   font-size: 15px;
   width: 80%;
   color: #4a5568;
-  margin: 0 auto 20px;
+  margin: 0 auto 18px;
   line-height: 1.5;
 }
 
@@ -95,7 +95,7 @@ html, body {
 }
 
 .main-content > * {
-  margin-bottom: 30px;
+  margin-bottom: 25px;
   padding: 0 10px;
 }
 
@@ -106,32 +106,31 @@ html, body {
 }
 
 p {
-  margin-bottom: 0.5rem;
-  line-height: 1.6;
+  margin-bottom: 0.4rem;
+  line-height: 1.5;
 }
 
 p + ul {
-  margin-top: 0.2rem;
-  margin-bottom: 1rem;
+  margin-top: 0.1rem;
+  margin-bottom: 0.8rem;
 }
 
 ul {
   list-style: disc;
-  padding-left: 1.2rem;
-  margin-top: 0.2rem;
-  margin-bottom: 1rem;
+  list-style-position: inside;
+  padding-left: 0;
+  margin-top: 0.1rem;
+  margin-bottom: 0.8rem;
 }
 
 li {
-  margin-left: 0;
+  line-height: 1.5;
+  margin-bottom: 0.1rem;
   padding-left: 0;
-  text-indent: 0;
-  line-height: 1.6;
-  margin-bottom: 0.2rem;
 }
 
 .footer {
-  padding-top: 40px;
+  padding-top: 30px;
   border-top: 1px solid #e2e8f0;
   text-align: center;
   width: 100%;
