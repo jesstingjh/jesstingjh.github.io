@@ -1,28 +1,37 @@
 ## About Me
 I’m a Master’s student in Computational Data Analytics at Georgia Tech, with a strong foundation in economics and statistics from the National University of Singapore. Prior to grad school, I worked as a Senior Economist at Singapore’s Ministry of Trade and Industry, where I applied econometric modeling and data analytics to inform national policy decisions.
 
-I enjoy applying machine learning and statistical techniques to uncover patterns, improve predictions, and generate actionable insights from complex datasets; and I'm continually expanding my technical toolkit through coursework and projects. Outside of work, I’m into puzzle games, bouldering, weightlifting, and exploring new coffee brews — and recently discovered a love for scuba diving.
+I enjoy applying machine learning and statistical techniques to uncover patterns, improve predictions, and generate actionable insights from complex datasets. Recently, I’ve been working on deep learning projects involving facial image reconstruction using diffusion models, LLM-based sentiment analysis, and schema-aware prompt generation from structured metadata. These are part of my broader effort to deepen technical skills through coursework and hands-on projects.
+
+Outside of work, I enjoy puzzle games, bouldering, weightlifting, and trying new coffee brews. I also recently picked up scuba diving.
 
 ---
 
 ## Technical Skills
-***Programming & Tools:*** Python, SQL, R, STATA, Tableau, Git; exposure to JavaScript, D3  
+***Programming & Tools:*** Python (NumPy, Pandas, Scikit-learn, PyTorch, Matplotlib, Hugging Face, Mediapipe, dlib, pdf2image, pypdf), SQL, R, STATA, Tableau, Git; exposure to JS, D3
 ***Cloud/Big Data***: AWS, GCP, PySpark, Azure ML, Databricks   
 ***Statistics & ML***: 
 - <u>Causal Inference</u>: DiD, Matching [CEM, PSM], RD, Synthetic Controls, A/B Testing, Survival Analysis
-- <u>Machine Learning</u>: Supervised/Unsupervised Learning, Neural Networks, Regression, Classification, Clustering, Random Forest, Anomaly Detection, Time Series, Image, Network Analysis 
-- <u>NLP & LLMs</u>: Sentiment/Topic Analysis, Transformers [BERT, DistilBERT]
+- <u>Machine Learning / Deep Learning</u>: Supervised/Unsupervised Learning, Neural Networks, Regression, Classification, Clustering, Random Forest, Anomaly Detection, Time Series, Image Reconstruction [DDPM], Prompt Engineering, Network Analysis
+- <u>NLP & LLMs</u>: Sentiment/Topic Analysis, Transformers [BERT, DistilBERT], Token Augmentation, Schema-Aware Prompting, SHAP
 
 ---
 
 ## Projects
 Below are some of the projects I have worked on as part of my coursework or personal interest. This section will be updated as I complete new projects      
 
-***Context-Aware Sentiment Analysis of Yelp Reviews using Fine-Tuned DistilBERT*** [github](https://github.com/jesstingjh/contextual-sentiment-yelp)
+***SLB – Knowledge Extraction Pipeline & Prompt Automation (Practicum Project)***
+- Contributed to a modular data pipeline for extracting and structuring technical document content using OCR, pdf2image, pypdf, and layout-aware models, supporting LLM-based document querying
+- Designed a Cognite-style Data Model based on sensor-derived activity recognition data to simulate SLB’s internal use cases, and developed schema-aware prompt generation functions for downstream, context-specific document retrieval
+
+***Image Reconstruction with Structured Masking and Adaptive Noise***
+- Trained a DDPM with U-Net backbone to reconstruct occluded facial images, using the FFHQ dataset with landmark-based region detection (Mediapipe, dlib), structured masking and adaptive noise to simulate realistic occlusions and enhance reconstruction and inpainting quality
+
+***Context-Aware Sentiment Analysis of Yelp Reviews using Fine-Tuned DistilBERT*** [github](https://github.com/jesstingjh/contextual-sentiment-yelp)  
 - Fine-tuned an LLM (DistilBERT) to predict positive reviews (4+ stars), incorporating contextual tokens from user and business data. Used stratified sampling, class-weighted loss, and F1-optimized thresholds to handle class imbalance
 - Improved accuracy from 71% to 93%, and F1 score from 74% to 95%; used TF-IDF to identify key sentiment drivers across time, location, and business traits
 
-***Outage Detection using Customer Interaction Data (Cox Communications)*** 
+***Cox Communications – Outage Detection using Customer Interaction Data*** 
 - Placed 3rd in cohort-wide competition (MSA Project Week)
 - Processed high-volume multichannel customer interaction logs and used anomaly detection models (MSTL, Isolation Forest) to detect latent outages not explicitly labeled in the data
 - Developed a rolling-window Random Forest model for near real-time outage prediction, enabling faster remediation
@@ -49,8 +58,8 @@ Below are some of the projects I have worked on as part of my coursework or pers
 
 ## Education
 **Georgia Institute of Technology**   
-***MS Computastional Data Analytics, CGPA: 4.0/4.0*** *(2024-2025, Expected Graduation: Dec 2025)*  
-- Relevant coursework: Data and Visual Analytics, Operations Research for Supply Chains (Linear Programming and Optimization), Machine Learning, Graduate Algorithms, High-dimensional Data Analytics (Splines, Image, Tensor Analysis) 
+***MS Computastional Data Analytics, CGPA: 4.0/4.0*** *(2024-2025)*  
+- Relevant coursework: Operations Research for Supply Chains (Linear Programming, Optimization), Machine Learning, Data and Visual Analytics, Graduate Algorithms, High-dimensional Data Analytics (Splines, Image, Tensor Analysis), Deep Learning (CNNs, RNNs. Attention, Transformers, PyTorch)   
 
 **National University of Singapore**  
 ***BSc Economics (Honors), Highest Distinction, GPA: 4.88/5.00*** *(2015-2019)*   
